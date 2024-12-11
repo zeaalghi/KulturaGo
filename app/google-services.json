@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111628993527",
+    "project_id": "kulturago-2f821",
+    "storage_bucket": "kulturago-2f821.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111628993527:android:ad5c4a702b1dac719da4f2",
+        "android_client_info": {
+          "package_name": "com.dicoding.picodiploma.kulturago"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9JOCq5l-B_5Boy7n44LbttdQ8iAYmao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
